@@ -1,0 +1,10 @@
++-------------------+----------------+---------------+----------------+
+|   Office Workers  |    Managers    |   Executives  |      CEO       |
++-------------------+----------------+---------------+----------------+
+| Elisabeth Eliseus |  Neelima Eva   | Michaela Arne | Govannon Simon |
+|   Herta Mathilda  | Patrick Renza  | Vasia Nirmala |                |
+|  Meliton Hartwig  | Uliana Herman  |               |                |
+|  Straton Herminia | Veronika Timur |               |                |
+|   Talya Algirdas  |     jamal      |               |                |
+|  Tekoa Margarita  |                |               |                |
++-------------------+----------------+---------------+----------------+
